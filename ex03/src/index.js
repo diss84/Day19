@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-
 // add the following code below this line​
 class App extends React.Component {
   render() {
@@ -12,6 +11,5 @@ class App extends React.Component {
     );
   }
 }
-
 // add the following code below this line
 ReactDOM.render(<App />, document.getElementById("root"));
